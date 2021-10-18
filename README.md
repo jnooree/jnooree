@@ -1,16 +1,13 @@
-### Hi there 👋
+## Introduction
 
-<!--
-**jnooree/jnooree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student at Seoul National University, studying Chemistry and Computational Science.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+Mostly interested in computational chemistry, computer & software engineering. Also working for incorporating machine learning (especially deep neural nets) into chemistry.
+
+## Preferred Language
+
+- Korean (native)
+- English
