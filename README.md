@@ -5,7 +5,7 @@ Undergraduate student at Seoul National University, studying Chemistry and Compu
 
 ## Interests
 
-Mostly interested in computational chemistry, computer & software engineering. Also working for incorporating machine learning (especially deep neural nets) into chemistry.
+Mostly interested in computational chemistry, computer & software engineering. Also working for applications of machine learning (especially deep neural nets) in chemistry.
 
 ## Preferred Language
 
