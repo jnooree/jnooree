@@ -1,6 +1,6 @@
 ## Introduction
 
-Graduate student in [seoklab](http://seoklab.org), Seoul National University.
+Graduate student in [seoklab](http://seoklab.org), Seoul National University (2022.3-).
 
 Mostly interested in computational chemistry, computer & software engineering. Also working for applications of machine learning (especially deep neural nets) in chemistry.
 
